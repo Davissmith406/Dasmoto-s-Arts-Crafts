@@ -4,5 +4,31 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-color: url('images/image_1.WEBP');
+    background-image: url('images/image_1.WEBP');
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes h3 {
+    background-color: mediumspringgreen;
+}
+
+#frames h3 {
+    background-color: lightcoral;
+}
+
+#paint h3 {
+    background-color: skyblue;
+}
+
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
 }
