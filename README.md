@@ -8,5 +8,5 @@
 * VS Code
 
 ## How to view website on your computer
-*clone repo to desired location on your computer
+* clone repo to desired location on your computer
 * open index.html in your browser
